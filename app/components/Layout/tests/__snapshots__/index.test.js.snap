@@ -1,0 +1,123 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Layout /> Should render correctly 1`] = `
+<div>
+  <header
+    class="css-w41d0-HeaderRoot e1ghuqy50"
+  >
+    <div
+      class="css-u5y1t0-HeaderContainer e1ghuqy51"
+    >
+      <nav
+        class="css-wvyf6s-NavRoot e1ghuqy52"
+      >
+        <div
+          class="css-1vw1113-ListItem e1ghuqy53"
+        >
+          <a
+            class="css-15ani8u-ItemLink e1ghuqy54"
+          >
+            phrases.features
+          </a>
+          <a
+            class="css-15ani8u-ItemLink e1ghuqy54"
+          >
+            phrases.apiExample
+          </a>
+        </div>
+        <div
+          class="css-kh7q0g-Space e1ghuqy56"
+        />
+        <div
+          class="css-1jbsa08-ListActions e1ghuqy55"
+        >
+          <select
+            class="css-rdesed-SelectRoot eusgkv00"
+            id="languages"
+            name="languages"
+          >
+            <option
+              value="es"
+            >
+              languages.es
+            </option>
+            <option
+              value="en"
+            >
+              languages.en
+            </option>
+          </select>
+        </div>
+      </nav>
+    </div>
+  </header>
+  <main>
+    <div
+      class="css-1f5wcpk-BannerRoot e1alx0b60"
+    >
+      <img
+        alt="react-next-boilerplate"
+        class="css-1wov1b9-Logo e1alx0b63"
+        src="/static/images/reac-next-boilerplate-logo.svg"
+      />
+      <h1
+        class="css-1f42zqr-Title e1alx0b61"
+      >
+        title
+      </h1>
+      <h2
+        class="css-pfcoqg-SubTitle e1alx0b62"
+      >
+        subTitle
+      </h2>
+    </div>
+    <div>
+      some text
+    </div>
+  </main>
+  <footer
+    class="jsx-898115948 root"
+  >
+    <div
+      class="jsx-898115948 container"
+    >
+      <div
+        class="jsx-898115948 row"
+      >
+        <a
+          class="jsx-898115948 link"
+          href="https://nextjs.org/features/server-side-rendering"
+          rel="noopener noreferrer"
+          target="_blank"
+        >
+          SSR
+        </a>
+        <a
+          class="jsx-898115948 link"
+          href="https://nextjs.org/features/static-exporting"
+          rel="noopener noreferrer"
+          target="_blank"
+        >
+          Static Exporting
+        </a>
+        <a
+          class="jsx-898115948 link"
+          href="https://nextjs.org/features/css-in-js"
+          rel="noopener noreferrer"
+          target="_blank"
+        >
+          CSS-in-JS
+        </a>
+        <a
+          class="jsx-898115948 link"
+          href="https://nextjs.org/features/progressive-web-apps"
+          rel="noopener noreferrer"
+          target="_blank"
+        >
+          PWA
+        </a>
+      </div>
+    </div>
+  </footer>
+</div>
+`;
