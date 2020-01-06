@@ -15,7 +15,8 @@
     "prettier": "prettier --ignore-path \"./.prettierignore\" --config .prettierrc --write \"./app/**/*.js\" \"./app/**/*.jsx\"",
     "lint": "npm run lint:eslint",
     "lint:eslint": "eslint --fix .",
-    "lint:husky": "npm run prettier && npm run lint"
+    "lint:husky": "npm run prettier && npm run lint",
+    "export": "next build app && next export app"
   },
   "husky": {
     "hooks": {
